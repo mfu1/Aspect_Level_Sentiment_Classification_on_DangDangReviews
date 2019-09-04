@@ -1,0 +1,40 @@
+train: sample numbers: 1628
+train: average sample length: 10.67
+train: max sample length: 87.00
+train: max sample: 5.qq，q农场都不支持（这倒也不能怪android系统，诺记的s60v5也不支持，腾讯跟不上时代，但是，没菜偷很不爽，那些所谓的农场助手，长得太像外挂，虽然装但一次都不敢用
+train: min sample length: 2.00
+train: min sample: 拍照
+train: negative number: 693 (42.57%)
+train: neutral number: 0 (0.00%)
+train: positive number: 935 (57.43%)
+
+train: total unique aspects: 6
+train: top 10 aspects: 
+- 功能: 623
+- 品质: 519
+- 设计: 375
+- 使用: 72
+- 服务: 20
+- 价格: 19
+
+train: total unique entities: 9
+train: all entities: 
+- PHONE: 433
+- DISPLAY: 272
+- MULTIMEDIA_DEVICES: 238
+- SOFTWARE: 208
+- HARDWARE: 158
+- OS: 143
+- BATTERY: 92
+- KEYBOARD: 64
+- SERVICE: 20
+
+train: total unique attributes: 5
+train: all attributes: 
+- FUNCTIONALITY: 634
+- QUALITY: 522
+- DESIGN: 378
+- USABILITY: 75
+- PRICE: 19
+
+----------------------------------------

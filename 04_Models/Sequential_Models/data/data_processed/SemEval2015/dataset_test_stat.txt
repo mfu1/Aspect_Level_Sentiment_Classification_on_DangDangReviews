@@ -1,0 +1,8 @@
+test: sample numbers: 234
+test: average sample length: 12.58
+test: max sample length: 67.00
+test: max sample: 色彩方面感觉36>iphone>26。(我的26是暖屛，不过也有好处，就是白色在晚上看不是很刺眼。iphone的白色在晚上看就有点刺眼
+test: min sample length: 3.00
+test: min sample: 完美屏
+
+----------------------------------------
